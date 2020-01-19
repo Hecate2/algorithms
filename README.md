@@ -1,2 +1,5 @@
 # algorithms
-一些online judges的算法题。预计以后会刷LeetCode  
+一些online judges的题
+
+## 副产品
+`./LeetCode/renaming.py`: This program renames files and directories, replacing characters at your will. 
